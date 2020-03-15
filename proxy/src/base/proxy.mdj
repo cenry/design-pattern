@@ -36,7 +36,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFw2GdG7tOi3KE="
 					},
-					"name": "Custom",
+					"name": "base.Custom",
 					"operations": [
 						{
 							"_type": "UMLOperation",
@@ -76,7 +76,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFw2GdG7tOi3KE="
 					},
-					"name": "Host",
+					"name": "base.Host",
 					"ownedElements": [
 						{
 							"_type": "UMLInterfaceRealization",
@@ -146,7 +146,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFw2GdG7tOi3KE="
 					},
-					"name": "HouseProxy",
+					"name": "base.HouseProxy",
 					"ownedElements": [
 						{
 							"_type": "UMLInterfaceRealization",
@@ -268,7 +268,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFw2GdHBtOq0Ys="
 							},
-							"name": "HouseProxy",
+							"name": "base.HouseProxy",
 							"stereotype": "constructor",
 							"parameters": [
 								{
@@ -311,7 +311,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFw2GdG7tOi3KE="
 					},
-					"name": "Rent",
+					"name": "base.Rent",
 					"operations": [
 						{
 							"_type": "UMLOperation",
@@ -391,7 +391,7 @@
 											"top": 27,
 											"width": 50.2861328125,
 											"height": 13,
-											"text": "Custom"
+											"text": "base.Custom"
 										},
 										{
 											"_type": "LabelView",
@@ -577,7 +577,7 @@
 											"top": 56.5,
 											"width": 31.02099609375,
 											"height": 13,
-											"text": "Host"
+											"text": "base.Host"
 										},
 										{
 											"_type": "LabelView",
@@ -762,7 +762,7 @@
 											"top": 91.5,
 											"width": 79.294921875,
 											"height": 13,
-											"text": "HouseProxy"
+											"text": "base.HouseProxy"
 										},
 										{
 											"_type": "LabelView",
@@ -844,7 +844,7 @@
 											"top": 5,
 											"width": 241.6552734375,
 											"height": 13,
-											"text": "«constructor»+HouseProxy(host: Host)",
+											"text": "«constructor»+base.HouseProxy(host: base.Host)",
 											"horizontalAlignment": 0
 										},
 										{
@@ -966,7 +966,7 @@
 											"top": 85,
 											"width": 30.44970703125,
 											"height": 13,
-											"text": "Rent"
+											"text": "base.Rent"
 										},
 										{
 											"_type": "LabelView",
@@ -1352,7 +1352,7 @@
 											"top": 311,
 											"width": 154.25439453125,
 											"height": 13,
-											"text": "Custom"
+											"text": "base.Custom"
 										},
 										{
 											"_type": "LabelView",
@@ -1548,7 +1548,7 @@
 											"top": 207,
 											"width": 69.72265625,
 											"height": 13,
-											"text": "Host"
+											"text": "base.Host"
 										},
 										{
 											"_type": "LabelView",
@@ -1743,7 +1743,7 @@
 											"top": 199,
 											"width": 224.34521484375,
 											"height": 13,
-											"text": "HouseProxy"
+											"text": "base.HouseProxy"
 										},
 										{
 											"_type": "LabelView",
@@ -1830,7 +1830,7 @@
 											"top": 232,
 											"width": 224.34521484375,
 											"height": 13,
-											"text": "«constructor»+HouseProxy(host: Host)",
+											"text": "«constructor»+base.HouseProxy(host: base.Host)",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1956,7 +1956,7 @@
 											"top": 92,
 											"width": 69.72265625,
 											"height": 13,
-											"text": "Rent"
+											"text": "base.Rent"
 										},
 										{
 											"_type": "LabelView",

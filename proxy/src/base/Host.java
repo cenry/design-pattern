@@ -1,3 +1,5 @@
+package base;
+
 public class Host implements Rent {
 
     @Override

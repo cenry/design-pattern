@@ -1,3 +1,5 @@
+package base;
+
 public class HouseProxy implements Rent {
 
     private Host host;
